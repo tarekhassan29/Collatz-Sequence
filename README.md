@@ -14,14 +14,14 @@ Hint: An integer number is even if number % 2 == 0, and it’s odd if
 number % 2 == 1.
 The output of this program could look something like this:
 # Enter number:
-3
-10
-5
-16
-8
-4
-2
-1
+3.
+10.
+5.
+16.
+8.
+4.
+2.
+1.
 # Input Validation
 Add try and except statements to the previous project to detect whether the
 user types in a noninteger string. Normally, the int() function will raise a
